@@ -1,9 +1,6 @@
 # Curriculum of digital security training by [DSS380](https://www.facebook.com/dss380org)
 
 Общие советы тренеру:
-1.
-2.
-3.
 
 Темы по цифровой безопасности:
 1. [Обновления](/updates.md);
